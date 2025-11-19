@@ -6,16 +6,13 @@ The project emphasizes modularity, transparency, and portability with a modern, 
 
 ---
 
-## 🚀 Objectifs
-
-- Centraliser les transactions, budgets, investissements et indicateurs patrimoniaux.
-- Fournir un tableau de bord clair et personnalisable.
-- Offrir une expérience multi-plateforme (Web, Desktop, Android).
-- Proposer une base technique solide : API Python, PostgreSQL, Next.js, Docker.
-- Permettre une gestion multi-utilisateurs avec rôles et règles de visibilité.
-- Faciliter les imports (CSV, API bancaires, flux réguliers…).
-
----
+## 🚀 Objectives
+- Centralize transactions, budgets, investments, and asset performance indicators.
+- Provide a clear and customizable dashboard.
+- Offer a multi-platform experience (Web, Desktop, Android).
+- Provide a robust technical foundation: Python API, PostgreSQL, Next.js, Docker.
+- Enable multi-user management with roles and visibility rules.
+- Facilitate imports (CSV, banking APIs, regular feeds, etc.).
 
 ## 🏗️ Architecture
 
