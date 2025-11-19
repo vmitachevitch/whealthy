@@ -4,6 +4,8 @@ Whealthy is an open-source platform for personal and wealth management.
 
 The project emphasizes modularity, transparency, and portability with a modern, multi-user, and extensible architecture.
 
+[![Documentation](https://img.shields.io/badge/docs-online-blue)](https://vmitachevitch.github.io/whealthy/)
+
 ---
 
 ## 🚀 Objectives
@@ -97,4 +99,5 @@ The project emphasizes modularity, transparency, and portability with a modern, 
 
 ---
 
-[![Documentation](https://img.shields.io/badge/docs-online-blue)](https://vmitachevitch.github.io/whealthy/)
+
+
